@@ -1,0 +1,11 @@
+-ESTRUTURA DE UM CSS
+--seletor = selecione um elemento
+--propriedade  = o que eu quero mudar, ex: cor de fundo
+--valor - exatamente o que vai mudar, no caso, azul -- ref. alteração da cor de fundo --
+--declaração deuma regra
+
+
+maneiras de selecionar um elemento
+pelo nome do elemento header = forma mais generica, 
+pela class exemplo .xxxxxxx = um pouco mais especifico ou,
+pelo ID exemplo #idxxxxxxxx = forma única.
